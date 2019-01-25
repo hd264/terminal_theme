@@ -16,4 +16,4 @@
 
 ### Live Demo
 
-[blog.lazysheep.fun](https://blog.lazysheep.fun)
+[cifangyiquan.net](https://cifangyiquan.net)
